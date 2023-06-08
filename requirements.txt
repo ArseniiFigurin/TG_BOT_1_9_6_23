@@ -1,0 +1,14 @@
+pyrogram==1.4.16
+gunicorn
+TgCrypto
+umongo
+dnspython
+heroku3
+telethon
+python_socks
+socks
+async_timeout
+python_socks
+pysocks
+socks
+render
